@@ -1,0 +1,8 @@
+tl\lcaptcha\listeners\QuitEvent.class
+tl\lcaptcha\listeners\JoinEvent.class
+tl\lcaptcha\utils\ServerUtils.class
+tl\lcaptcha\listeners\MenuClick.class
+tl\lcaptcha\builder\BuilderImpl.class
+tl\lcaptcha\utils\RandomUtils.class
+tl\lcaptcha\listeners\MenuClose.class
+tl\lcaptcha\Plugin.class

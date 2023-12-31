@@ -1,0 +1,4 @@
+name: LCaptcha
+version: '1.0-SNAPSHOT'
+main: tl.captcha.Plugin
+author: _a_k_u_l_k_a_
